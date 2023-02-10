@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Header
+![Header](https://github.com/VVerynika/Vverynika/blob/main/assets/VK.jpg)
 
 About me
 
