@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/VVerynika/Vverynika/blob/main/assets/VK.jpg)
 
-About me
+## I'm a beginner Software Engineer
 
 Languages and Tools
 
