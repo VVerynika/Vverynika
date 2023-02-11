@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Header](https://github.com/VVerynika/Vverynika/blob/main/assets/Logo.png)
 
 ## I'm a beginner Software Engineer
@@ -14,3 +12,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-080C18?style=for-the-badge&logo=telegram&LogoColour=#174584)](https://t.me/Vverynika)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-080C18?style=for-the-badge&logo=linkedin&logoColor=4682B4)](https://www.linkedin.com/in/karpyzaveronika/)
 [![Instagram](https://img.shields.io/badge/-Instagram-080C18?style=for-the-badge&logo=instagram&LogoColor=174584)](https://www.instagram.com/vverynika/)
+
+
+[![Vverynika's GitHub stats](https://github-readme-stats.vercel.app/api?username=VVerynika&show_icons=true&theme=github_dark)](https://github.com/VVerynika/github-readme-stats)
