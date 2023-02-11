@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](https://github.com/VVerynika/Vverynika/blob/main/assets/VK1.jpg)
+![Header](https://github.com/VVerynika/Vverynika/blob/main/assets/Logo.png)
 
 ## I'm a beginner Software Engineer
 
