@@ -8,6 +8,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-080C18?style=for-the-badge&logo=PostgreSQL&logoColor=4682B4)
 ![Charles](https://img.shields.io/badge/-Charles-080C18?style=for-the-badge&logo=Charles&logoColor=4682B4)
 ![Git](https://img.shields.io/badge/-Gitbash-080C18?style=for-the-badge&logo=git&logoColor=FF4500)
+![HTML&CSS](https://img.shields.io/badge/-HTML&CSS-080C18?style=for-the-badge&logo=html&css&logoColor=FF4500)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-080C18?style=for-the-badge&logo=telegram&LogoColour=#174584)](https://t.me/Vverynika)
