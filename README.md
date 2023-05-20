@@ -1,4 +1,4 @@
-![Header](https://github.com/VVerynika/Vverynika/blob/main/assets/L_o.png)
+![Header](https://https://github.com/VVerynika/Vverynika/blob/main/assets/Logo.png)
 
 ## I'm a beginner Software Engineer
 
