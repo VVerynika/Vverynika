@@ -1,6 +1,6 @@
 ![Header](https://github.com/VVerynika/Vverynika/blob/main/assets/Logo.png)
 
-## Hello there! I'm a beginner Software Engineer with almost 1 year of experience
+## Hello there! I'm a Software Engineer with almost 2 years of experience
 
 ### Languages and Tools:
 ![DevTools](https://img.shields.io/badge/-DevTools-080C18?style=for-the-badge&logo=googlechrome&logoColor=4169E1)
