@@ -15,7 +15,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-080C18?style=for-the-badge&logo=Jira&logoColor=4169E1)
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-080C18?style=for-the-badge&logo=AndroidStudio&logoColor=3CB371)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-080C18?style=for-the-badge&logo=DBeaver&logoColor=4169E1)
-![Python](https://img.shields.io/badge/-Python-080C18?style=for-the-badge&logo=Python&logoColor=4169E1)
+![Python](https://img.shields.io/badge/-Python-080C18?style=for-the-badge&logo=Python&logoColor=FFE87C)
 
 
 ### Socials:
