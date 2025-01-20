@@ -1,6 +1,6 @@
 ![Header](https://github.com/VVerynika/Vverynika/blob/main/assets/Logo.png)
 
-## Hello there! I'm a QA Engineer with 2 years of experience in API testing, Manual mobile and WEB testing in different domains
+## Hello there! I'm a QA Engineer with some experience in API testing, Manual mobile and WEB testing in different domains
 
 ### Languages and Tools:
 ![DevTools](https://img.shields.io/badge/-DevTools-080C18?style=for-the-badge&logo=googlechrome&logoColor=4169E1)
