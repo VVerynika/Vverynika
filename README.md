@@ -1,6 +1,6 @@
 ![Header](https://github.com/VVerynika/Vverynika/blob/main/assets/Logo.png)
 
-## Hello there! I'm a QA Engineer with some experience in API testing, Manual mobile and WEB testing in different domains
+## Hello there! I'm a QA Engineer with experience in API testing, Manual mobile and WEB testing in different domains
 
 ### Languages and Tools:
 ![DevTools](https://img.shields.io/badge/-DevTools-080C18?style=for-the-badge&logo=googlechrome&logoColor=4169E1)
@@ -9,7 +9,7 @@
 ![Charles](https://img.shields.io/badge/-Charles-080C18?style=for-the-badge&logo=Charles&logoColor=4682B4)
 ![Git](https://img.shields.io/badge/-Git-080C18?style=for-the-badge&logo=git&logoColor=E55B3C)
 ![Linux](https://img.shields.io/badge/-Linux-080C18?style=for-the-badge&logo=Linux&logoColor=DCDCDC)
-![HTML&CSS](https://img.shields.io/badge/-HTML&CSS-080C18?style=for-the-badge&logo=html&css&logoColor=FF4500)
+![HTML&CSS](https://img.shields.io/badge/-Xcode-080C18?style=for-the-badge&logo=Xcode&logoColor=FF4500)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-080C18?style=for-the-badge&logo=ApacheJmeter&logoColor=E55451)
 ![VSCode](https://img.shields.io/badge/-VS_Code-080C18?style=for-the-badge&logo=VisualStudioCode&logoColor=4682B4)
 ![Jira](https://img.shields.io/badge/-Jira-080C18?style=for-the-badge&logo=Jira&logoColor=4169E1)
